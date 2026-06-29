@@ -1,0 +1,34 @@
+{
+  "citations": [
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-flow",
+    "https://css-tricks.com/the-auto-flowing-powers-of-grids-dense-keyword/",
+    "https://www.wearedevelopers.com/en/magazine/682/building-a-bento-grid-layout-with-modern-css-grid-682",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1lEbWRmc2dvY0dBVWpfeEIyUG9QbVdISkMxY25ObkxQYld1cTZFel9uM1ZHZEhsSUhfMU16X09qWjM0TDFHdE41aUF0TTV0R0ZfX0E0cnRFUWg5bS1PZV9yaUNxVnhrU1VZam1wNmZScG05SE1fWGk3YU5DSGM4X0tPeHNlc2tNcHlMbFF0djFIY19oZjk1WWZhS2lsMUkwTnZReGthUTBRWlEyM3FianladTlzRTJqWVBScGhTQVlaTGpzWU1Yb2RDVGZJWFM2NWxN?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuLXRJc19tNllvUzJrVlFmaVd4ckpBdUhhNFgyZXBycmlKTGJ2V2NyYUlFX3VManpuQW9ncXZtOFFhbmxWTHh2LXhjMWJKcDZaN1h4RS1UcE90aDlJeGpDY3pzMGg5UjhBd3AwQ3Y3QmFrTjVha0xZbmhQZw?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+  ],
+  "design_plan": "Cinematic editorial blog with a bold hero, bento-style news grid using CSS Grid auto-placement with dense flow, Outfit + Cabinet Grotesk typography, subtle GSAP scroll motion guarded for no-CDN environments, and clear CTA contrast. Focus on readability, evidence-backed analysis, and conversion to Super.",
+  "generated_at": "2026-06-29T18:42:46.451584+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A daily editorial brief for buyers and builders tracking personal AI agents, computer-use assistants, and the platforms shaping this market. Grounded in current reporting, with a clear Super perspective on why computer-use caching changes the economics of repeated workflows."
+}
